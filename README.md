@@ -1,5 +1,8 @@
 # Overcooked-chat : A Japanese Human-Human Dialogue Dataset from a Real-Time Collaborative Cooking Game. 
 
+
+[![CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 <img src="./images/Overcookedchat_example.png" width="400" />
 
 **OvercookedChat** is a human-collected Japanese dialogue dataset for real-time collaborative tasks. 
