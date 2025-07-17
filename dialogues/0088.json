@@ -1,0 +1,5744 @@
+{
+  "log": [
+    {
+      "id": 0,
+      "time": 1.528,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": 1,
+      "time": 1.604,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "utterance",
+      "utterance": "えっと、私どっち？",
+      "tag": "質問",
+      "end_time": 2.504
+    },
+    {
+      "id": 2,
+      "time": 1.832,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        3
+      ]
+    },
+    {
+      "id": 3,
+      "time": 2.353,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        4
+      ]
+    },
+    {
+      "id": 4,
+      "time": 2.572,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 5,
+      "time": 2.784,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "utterance",
+      "utterance": "あ、青い方ですね。",
+      "tag": "回答",
+      "end_time": 3.644
+    },
+    {
+      "id": 6,
+      "time": 3.086,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 7,
+      "time": 3.427,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 8,
+      "time": 3.644,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "utterance",
+      "utterance": "青い方で、はい。",
+      "tag": "同意",
+      "end_time": 4.314
+    },
+    {
+      "id": 9,
+      "time": 3.646,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 10,
+      "time": 4.258,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 11,
+      "time": 4.651,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 12,
+      "time": 4.682,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 13,
+      "time": 4.784,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "utterance",
+      "utterance": "はい。",
+      "tag": "相槌",
+      "end_time": 5.084
+    },
+    {
+      "id": 14,
+      "time": 5.12,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 15,
+      "time": 5.371,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Pickup_FreshBellpepper_from_FreshBellpepperTile",
+      "position": [
+        0,
+        6
+      ]
+    },
+    {
+      "id": 16,
+      "time": 5.384,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "utterance",
+      "utterance": "じゃあ、えっと、ピーマ、ピーマン切り、あ、捨てちゃった。ピーマン切ります。",
+      "tag": "情報提供",
+      "end_time": 9.384
+    },
+    {
+      "id": 17,
+      "time": 5.589,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 18,
+      "time": 6.074,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 19,
+      "time": 6.386,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": 20,
+      "time": 6.73,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 21,
+      "time": 6.969,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Drop_FreshBellpepper",
+      "position": [
+        2,
+        7
+      ]
+    },
+    {
+      "id": 22,
+      "time": 7.031,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 23,
+      "time": 7.8,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 24,
+      "time": 8.143,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 25,
+      "time": 8.383,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 26,
+      "time": 8.693,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Pickup_FreshBellpepper_from_FreshBellpepperTile",
+      "position": [
+        0,
+        6
+      ]
+    },
+    {
+      "id": 27,
+      "time": 9.156,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 28,
+      "time": 9.341,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": 29,
+      "time": 9.467,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        6
+      ]
+    },
+    {
+      "id": 30,
+      "time": 9.622,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Pickup_FreshTomato_from_FreshTomatoTile",
+      "position": [
+        0,
+        5
+      ]
+    },
+    {
+      "id": 31,
+      "time": 9.774,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "utterance",
+      "utterance": "はい。じゃあ、トマト持ってきます。",
+      "tag": "情報提供",
+      "end_time": 11.444
+    },
+    {
+      "id": 32,
+      "time": 9.806,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 33,
+      "time": 9.991,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        4
+      ]
+    },
+    {
+      "id": 34,
+      "time": 10.177,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 35,
+      "time": 10.332,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        2
+      ]
+    },
+    {
+      "id": 36,
+      "time": 10.632,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": 37,
+      "time": 10.695,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 38,
+      "time": 10.819,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Chop_FreshBellpepper",
+      "position": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": 39,
+      "time": 11.098,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 40,
+      "time": 11.425,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": 41,
+      "time": 11.669,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        6
+      ]
+    },
+    {
+      "id": 42,
+      "time": 11.764,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "utterance",
+      "utterance": "はい。",
+      "tag": "相槌",
+      "end_time": 12.124
+    },
+    {
+      "id": 43,
+      "time": 11.92,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": 44,
+      "time": 11.92,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Cut_ChoppedBellpepper",
+      "position": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": 45,
+      "time": 12.141,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Pickup_ChoppedBellpepper_from_Cutboard",
+      "position": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": 46,
+      "time": 12.274,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "utterance",
+      "utterance": "ありがとうございます。",
+      "tag": "感謝",
+      "end_time": 13.104
+    },
+    {
+      "id": 47,
+      "time": 12.45,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        6
+      ]
+    },
+    {
+      "id": 48,
+      "time": 12.672,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Put_ChoppedBellpepper_on_Cutboard",
+      "position": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": 49,
+      "time": 12.874,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 50,
+      "time": 13.216,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        4
+      ]
+    },
+    {
+      "id": 51,
+      "time": 13.309,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Pickup_ChoppedBellpepper_from_Cutboard",
+      "position": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": 52,
+      "time": 13.8,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Put_ChoppedBellpepper_on_Cutboard",
+      "position": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": 53,
+      "time": 13.925,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 54,
+      "time": 14.112,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        1
+      ]
+    },
+    {
+      "id": 55,
+      "time": 14.143,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        2
+      ]
+    },
+    {
+      "id": 56,
+      "time": 14.378,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        1
+      ]
+    },
+    {
+      "id": 57,
+      "time": 14.566,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": 58,
+      "time": 14.721,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        3
+      ]
+    },
+    {
+      "id": 59,
+      "time": 15.117,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        1
+      ]
+    },
+    {
+      "id": 60,
+      "time": 15.243,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        4
+      ]
+    },
+    {
+      "id": 61,
+      "time": 15.425,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 62,
+      "time": 15.486,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Chop_FreshTomato",
+      "position": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": 63,
+      "time": 15.76,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 64,
+      "time": 15.971,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 65,
+      "time": 16.249,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 66,
+      "time": 16.577,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": 67,
+      "time": 16.64,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Cut_ChoppedTomato",
+      "position": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": 68,
+      "time": 16.888,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Pickup_ChoppedTomato_from_Cutboard",
+      "position": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": 69,
+      "time": 16.888,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 70,
+      "time": 17.105,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Put_ChoppedTomato_on_Cutboard",
+      "position": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": 71,
+      "time": 17.377,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": 72,
+      "time": 17.627,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Pickup_Plate_from_PlateTile",
+      "position": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": 73,
+      "time": 18.001,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 74,
+      "time": 18.055,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Pickup_ChoppedTomato_from_Cutboard",
+      "position": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": 75,
+      "time": 18.424,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 76,
+      "time": 18.579,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 77,
+      "time": 18.642,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": 78,
+      "time": 18.944,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 79,
+      "time": 19.259,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Assemble_ChoppedBellpepper-ChoppedTomato",
+      "position": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": 80,
+      "time": 19.291,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Put_Plate_on_PlateTile",
+      "position": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": 81,
+      "time": 19.516,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 82,
+      "time": 19.924,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 83,
+      "time": 20.113,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        4
+      ]
+    },
+    {
+      "id": 84,
+      "time": 20.266,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Pickup_ChoppedBellpepper-ChoppedTomato_from_Cutboard",
+      "position": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": 85,
+      "time": 20.297,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        3
+      ]
+    },
+    {
+      "id": 86,
+      "time": 20.825,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        2
+      ]
+    },
+    {
+      "id": 87,
+      "time": 21.136,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        4
+      ]
+    },
+    {
+      "id": 88,
+      "time": 21.323,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 89,
+      "time": 21.575,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 90,
+      "time": 21.624,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "utterance",
+      "utterance": "鍋に行きます。",
+      "tag": "情報提供",
+      "end_time": 22.894
+    },
+    {
+      "id": 91,
+      "time": 21.636,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 92,
+      "time": 21.877,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        4
+      ]
+    },
+    {
+      "id": 93,
+      "time": 21.877,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 94,
+      "time": 22.126,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 95,
+      "time": 22.342,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 96,
+      "time": 22.374,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        6
+      ]
+    },
+    {
+      "id": 97,
+      "time": 22.832,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": 98,
+      "time": 23.134,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "utterance",
+      "utterance": "あ、はい、お願いします。その間にじゃピーマン切っておきます。",
+      "tag": "指示・依頼",
+      "end_time": 26.134
+    },
+    {
+      "id": 99,
+      "time": 23.411,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 100,
+      "time": 23.687,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 101,
+      "time": 24.053,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 102,
+      "time": 24.149,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 103,
+      "time": 24.4,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 104,
+      "time": 24.431,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": 105,
+      "time": 24.651,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 106,
+      "time": 24.861,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 107,
+      "time": 24.922,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 108,
+      "time": 25.076,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 109,
+      "time": 25.357,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Pickup_FreshBellpepper_from_FreshBellpepperTile",
+      "position": [
+        0,
+        6
+      ]
+    },
+    {
+      "id": 110,
+      "time": 25.482,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Cook_ChoppedBellpepper-ChoppedTomato",
+      "position": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": 111,
+      "time": 25.717,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 112,
+      "time": 25.904,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": 113,
+      "time": 26.062,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        6
+      ]
+    },
+    {
+      "id": 114,
+      "time": 26.247,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": 115,
+      "time": 26.344,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "utterance",
+      "utterance": "はい、ありがとうございます。",
+      "tag": "感謝",
+      "end_time": 27.474
+    },
+    {
+      "id": 116,
+      "time": 26.456,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 117,
+      "time": 26.642,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        4
+      ]
+    },
+    {
+      "id": 118,
+      "time": 26.828,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        3
+      ]
+    },
+    {
+      "id": 119,
+      "time": 26.922,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 120,
+      "time": 26.984,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": 121,
+      "time": 27.227,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 122,
+      "time": 27.351,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Chop_FreshBellpepper",
+      "position": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": 123,
+      "time": 27.687,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": 124,
+      "time": 28.08,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Pickup_Plate_from_PlateTile",
+      "position": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": 125,
+      "time": 28.42,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Cut_ChoppedBellpepper",
+      "position": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": 126,
+      "time": 28.88,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Pickup_ChoppedBellpepper_from_Cutboard",
+      "position": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": 127,
+      "time": 28.911,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 128,
+      "time": 29.308,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Put_ChoppedBellpepper_on_Cutboard",
+      "position": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": 129,
+      "time": 29.432,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 130,
+      "time": 29.653,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        3
+      ]
+    },
+    {
+      "id": 131,
+      "time": 29.716,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 132,
+      "time": 29.839,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        4
+      ]
+    },
+    {
+      "id": 133,
+      "time": 30.234,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 134,
+      "time": 30.574,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 135,
+      "time": 30.666,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Pickup_CookedBellpepper-CookedTomato_from_Pot",
+      "position": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": 136,
+      "time": 30.77,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 137,
+      "time": 30.921,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 138,
+      "time": 31.14,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 139,
+      "time": 31.48,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 140,
+      "time": 31.644,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "utterance",
+      "utterance": "キャベツも切ります。",
+      "tag": "情報提供",
+      "end_time": 32.914
+    },
+    {
+      "id": 141,
+      "time": 31.72,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 142,
+      "time": 31.72,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Pickup_FreshLettuce_from_FreshLettuceTile",
+      "position": [
+        0,
+        4
+      ]
+    },
+    {
+      "id": 143,
+      "time": 32.03,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 144,
+      "time": 32.327,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 145,
+      "time": 32.545,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 146,
+      "time": 32.73,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 147,
+      "time": 32.913,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 148,
+      "time": 33.004,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 149,
+      "time": 33.124,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "utterance",
+      "utterance": "できました。",
+      "tag": "情報提供",
+      "end_time": 34.104
+    },
+    {
+      "id": 150,
+      "time": 33.273,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 151,
+      "time": 33.398,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        4
+      ]
+    },
+    {
+      "id": 152,
+      "time": 33.583,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 153,
+      "time": 33.614,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        3
+      ]
+    },
+    {
+      "id": 154,
+      "time": 33.767,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": 155,
+      "time": 33.949,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 156,
+      "time": 33.98,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        1
+      ]
+    },
+    {
+      "id": 157,
+      "time": 34.224,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "utterance",
+      "utterance": "はい。",
+      "tag": "相槌",
+      "end_time": 34.594
+    },
+    {
+      "id": 158,
+      "time": 34.263,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": 159,
+      "time": 34.324,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Chop_FreshLettuce",
+      "position": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": 160,
+      "time": 34.691,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        6
+      ]
+    },
+    {
+      "id": 161,
+      "time": 35.252,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 162,
+      "time": 35.368,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Cut_ChoppedLettuce",
+      "position": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": 163,
+      "time": 35.523,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        4
+      ]
+    },
+    {
+      "id": 164,
+      "time": 35.865,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 165,
+      "time": 35.865,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Pickup_ChoppedLettuce_from_Cutboard",
+      "position": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": 166,
+      "time": 36.102,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": 167,
+      "time": 36.134,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        2
+      ]
+    },
+    {
+      "id": 168,
+      "time": 36.384,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        1
+      ]
+    },
+    {
+      "id": 169,
+      "time": 36.507,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        1
+      ]
+    },
+    {
+      "id": 170,
+      "time": 36.662,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Deliver_CookedBellpepper-CookedTomato-Plate",
+      "position": [
+        4,
+        0
+      ]
+    },
+    {
+      "id": 171,
+      "time": 36.81,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Put_ChoppedLettuce_on_Cutboard",
+      "position": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": 172,
+      "time": 37.399,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": 173,
+      "time": 37.579,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        3
+      ]
+    },
+    {
+      "id": 174,
+      "time": 37.768,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        4
+      ]
+    },
+    {
+      "id": 175,
+      "time": 37.831,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        2
+      ]
+    },
+    {
+      "id": 176,
+      "time": 38.05,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 177,
+      "time": 38.203,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 178,
+      "time": 38.503,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        4
+      ]
+    },
+    {
+      "id": 179,
+      "time": 38.596,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        4
+      ]
+    },
+    {
+      "id": 180,
+      "time": 38.604,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "utterance",
+      "utterance": "あ、今ピーマンキャベツ切ったので、鍋にかけます。",
+      "tag": "情報提供",
+      "end_time": 43.154
+    },
+    {
+      "id": 181,
+      "time": 38.781,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        3
+      ]
+    },
+    {
+      "id": 182,
+      "time": 38.875,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 183,
+      "time": 38.97,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": 184,
+      "time": 39.147,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        6
+      ]
+    },
+    {
+      "id": 185,
+      "time": 39.208,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        1
+      ]
+    },
+    {
+      "id": 186,
+      "time": 39.645,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Pickup_ChoppedLettuce_from_Cutboard",
+      "position": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": 187,
+      "time": 40.071,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": 188,
+      "time": 40.507,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Assemble_ChoppedBellpepper-ChoppedLettuce",
+      "position": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": 189,
+      "time": 41.036,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": 190,
+      "time": 41.222,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        3
+      ]
+    },
+    {
+      "id": 191,
+      "time": 41.369,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 192,
+      "time": 41.43,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        4
+      ]
+    },
+    {
+      "id": 193,
+      "time": 41.646,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 194,
+      "time": 41.925,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 195,
+      "time": 42.229,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 196,
+      "time": 42.506,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": 197,
+      "time": 42.998,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 198,
+      "time": 42.998,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 199,
+      "time": 43.37,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 200,
+      "time": 43.433,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 201,
+      "time": 43.524,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "utterance",
+      "utterance": "はい。じゃあ、3 品目作ります。",
+      "tag": "情報提供",
+      "end_time": 45.844
+    },
+    {
+      "id": 202,
+      "time": 43.802,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 203,
+      "time": 43.923,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Pickup_FreshTomato_from_FreshTomatoTile",
+      "position": [
+        0,
+        5
+      ]
+    },
+    {
+      "id": 204,
+      "time": 44.109,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        4
+      ]
+    },
+    {
+      "id": 205,
+      "time": 44.294,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        3
+      ]
+    },
+    {
+      "id": 206,
+      "time": 44.447,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": 207,
+      "time": 44.882,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        1
+      ]
+    },
+    {
+      "id": 208,
+      "time": 45.277,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": 209,
+      "time": 45.614,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Pickup_ChoppedBellpepper-ChoppedLettuce_from_Cutboard",
+      "position": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": 210,
+      "time": 45.676,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 211,
+      "time": 45.983,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        3
+      ]
+    },
+    {
+      "id": 212,
+      "time": 46.045,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 213,
+      "time": 46.124,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "utterance",
+      "utterance": "はい。",
+      "tag": "相槌",
+      "end_time": 46.464
+    },
+    {
+      "id": 214,
+      "time": 46.138,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        4
+      ]
+    },
+    {
+      "id": 215,
+      "time": 46.294,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 216,
+      "time": 46.326,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Put_ChoppedBellpepper-ChoppedLettuce_on_Counter",
+      "position": [
+        6,
+        5
+      ]
+    },
+    {
+      "id": 217,
+      "time": 46.388,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": 218,
+      "time": 46.598,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 219,
+      "time": 46.723,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        6
+      ]
+    },
+    {
+      "id": 220,
+      "time": 47.036,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 221,
+      "time": 47.401,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 222,
+      "time": 47.401,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Pickup_ChoppedBellpepper-ChoppedLettuce_from_Counter",
+      "position": [
+        6,
+        5
+      ]
+    },
+    {
+      "id": 223,
+      "time": 47.989,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        4
+      ]
+    },
+    {
+      "id": 224,
+      "time": 48.231,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 225,
+      "time": 48.476,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 226,
+      "time": 48.506,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        2
+      ]
+    },
+    {
+      "id": 227,
+      "time": 48.63,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 228,
+      "time": 48.755,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        1
+      ]
+    },
+    {
+      "id": 229,
+      "time": 48.809,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 230,
+      "time": 49.026,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 231,
+      "time": 49.211,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        1
+      ]
+    },
+    {
+      "id": 232,
+      "time": 49.302,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 233,
+      "time": 49.525,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Chop_FreshTomato",
+      "position": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": 234,
+      "time": 49.525,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 235,
+      "time": 49.677,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 236,
+      "time": 50.05,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Cook_ChoppedBellpepper-ChoppedLettuce",
+      "position": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": 237,
+      "time": 50.737,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Cut_ChoppedTomato",
+      "position": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": 238,
+      "time": 51.23,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": 239,
+      "time": 51.385,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 240,
+      "time": 51.538,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        3
+      ]
+    },
+    {
+      "id": 241,
+      "time": 51.538,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 242,
+      "time": 51.782,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        4
+      ]
+    },
+    {
+      "id": 243,
+      "time": 51.836,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": 244,
+      "time": 52.052,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 245,
+      "time": 52.052,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Pickup_Plate_from_PlateTile",
+      "position": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": 246,
+      "time": 52.3,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": 247,
+      "time": 52.393,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 248,
+      "time": 52.677,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 249,
+      "time": 52.865,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        6
+      ]
+    },
+    {
+      "id": 250,
+      "time": 52.865,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 251,
+      "time": 53.173,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": 252,
+      "time": 53.475,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 253,
+      "time": 53.691,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 254,
+      "time": 53.694,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "utterance",
+      "utterance": "パプリカ持って行ってきます。",
+      "tag": "情報提供",
+      "end_time": 54.984
+    },
+    {
+      "id": 255,
+      "time": 53.973,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Pickup_FreshBellpepper_from_FreshBellpepperTile",
+      "position": [
+        0,
+        6
+      ]
+    },
+    {
+      "id": 256,
+      "time": 54.74,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Put_FreshBellpepper_on_Counter",
+      "position": [
+        1,
+        7
+      ]
+    },
+    {
+      "id": 257,
+      "time": 55.086,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 258,
+      "time": 55.392,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": 259,
+      "time": 55.514,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Pickup_CookedBellpepper-CookedLettuce_from_Pot",
+      "position": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": 260,
+      "time": 55.844,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "utterance",
+      "utterance": "あ、間違えた。",
+      "tag": "独り言",
+      "end_time": 56.684
+    },
+    {
+      "id": 261,
+      "time": 55.881,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 262,
+      "time": 56.037,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 263,
+      "time": 56.191,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 264,
+      "time": 56.401,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 265,
+      "time": 56.433,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 266,
+      "time": 56.775,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Pickup_FreshBellpepper_from_Counter",
+      "position": [
+        1,
+        7
+      ]
+    },
+    {
+      "id": 267,
+      "time": 56.902,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 268,
+      "time": 57.076,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 269,
+      "time": 57.232,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 270,
+      "time": 57.607,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": 271,
+      "time": 57.637,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 272,
+      "time": 57.88,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        6
+      ]
+    },
+    {
+      "id": 273,
+      "time": 58.19,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": 274,
+      "time": 58.377,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Put_FreshBellpepper_on_Counter",
+      "position": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": 275,
+      "time": 58.501,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 276,
+      "time": 58.675,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 277,
+      "time": 58.799,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 278,
+      "time": 59.019,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        4
+      ]
+    },
+    {
+      "id": 279,
+      "time": 59.206,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 280,
+      "time": 59.363,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        2
+      ]
+    },
+    {
+      "id": 281,
+      "time": 59.414,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "utterance",
+      "utterance": "ごめん。",
+      "tag": "謝罪",
+      "end_time": 60.484
+    },
+    {
+      "id": 282,
+      "time": 59.552,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": 283,
+      "time": 59.552,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        1
+      ]
+    },
+    {
+      "id": 284,
+      "time": 59.707,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Deliver_CookedBellpepper-CookedLettuce-Plate",
+      "position": [
+        4,
+        0
+      ]
+    },
+    {
+      "id": 285,
+      "time": 59.927,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Pickup_FreshBellpepper_from_Counter",
+      "position": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": 286,
+      "time": 60.385,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        2
+      ]
+    },
+    {
+      "id": 287,
+      "time": 60.415,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 288,
+      "time": 60.415,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": 289,
+      "time": 60.54,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        3
+      ]
+    },
+    {
+      "id": 290,
+      "time": 60.727,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        4
+      ]
+    },
+    {
+      "id": 291,
+      "time": 61.724,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "utterance",
+      "utterance": "あ、これでいっか。",
+      "tag": "独り言",
+      "end_time": 63.644
+    },
+    {
+      "id": 292,
+      "time": 61.803,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        4
+      ]
+    },
+    {
+      "id": 293,
+      "time": 61.926,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        4
+      ]
+    },
+    {
+      "id": 294,
+      "time": 62.351,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 295,
+      "time": 62.381,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 296,
+      "time": 62.721,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        2
+      ]
+    },
+    {
+      "id": 297,
+      "time": 62.904,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 298,
+      "time": 63.114,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 299,
+      "time": 63.176,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": 300,
+      "time": 63.301,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 301,
+      "time": 63.489,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 302,
+      "time": 63.55,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Chop_FreshBellpepper",
+      "position": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": 303,
+      "time": 64.013,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 304,
+      "time": 64.564,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "utterance",
+      "utterance": "あ、じゃあまた同じやつ",
+      "tag": "情報提供",
+      "end_time": 66.044
+    },
+    {
+      "id": 305,
+      "time": 64.747,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Cut_ChoppedBellpepper",
+      "position": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": 306,
+      "time": 64.84,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 307,
+      "time": 65.026,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 308,
+      "time": 65.182,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        1
+      ]
+    },
+    {
+      "id": 309,
+      "time": 65.396,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Pickup_FreshBellpepper_from_FreshBellpepperTile",
+      "position": [
+        0,
+        6
+      ]
+    },
+    {
+      "id": 310,
+      "time": 65.856,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 311,
+      "time": 66.038,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": 312,
+      "time": 66.044,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "utterance",
+      "utterance": "はい。",
+      "tag": "相槌",
+      "end_time": 66.324
+    },
+    {
+      "id": 313,
+      "time": 66.065,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Pickup_ChoppedTomato_from_Cutboard",
+      "position": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": 314,
+      "time": 66.219,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        6
+      ]
+    },
+    {
+      "id": 315,
+      "time": 66.324,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "utterance",
+      "utterance": "切っておきます。",
+      "tag": "情報提供",
+      "end_time": 68.084
+    },
+    {
+      "id": 316,
+      "time": 66.376,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": 317,
+      "time": 66.529,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": 318,
+      "time": 66.744,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 319,
+      "time": 66.985,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Assemble_ChoppedBellpepper-ChoppedTomato",
+      "position": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": 320,
+      "time": 67.451,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        4
+      ]
+    },
+    {
+      "id": 321,
+      "time": 67.689,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        3
+      ]
+    },
+    {
+      "id": 322,
+      "time": 67.751,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Pickup_ChoppedBellpepper-ChoppedTomato_from_Cutboard",
+      "position": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": 323,
+      "time": 68.569,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        2
+      ]
+    },
+    {
+      "id": 324,
+      "time": 68.694,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Put_FreshBellpepper_on_Counter",
+      "position": [
+        6,
+        3
+      ]
+    },
+    {
+      "id": 325,
+      "time": 69.203,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Pickup_FreshBellpepper_from_Counter",
+      "position": [
+        6,
+        3
+      ]
+    },
+    {
+      "id": 326,
+      "time": 69.297,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 327,
+      "time": 69.512,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": 328,
+      "time": 69.603,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        4
+      ]
+    },
+    {
+      "id": 329,
+      "time": 69.696,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        1
+      ]
+    },
+    {
+      "id": 330,
+      "time": 69.877,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 331,
+      "time": 69.97,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Chop_FreshBellpepper",
+      "position": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": 332,
+      "time": 70.19,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        6
+      ]
+    },
+    {
+      "id": 333,
+      "time": 70.672,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": 334,
+      "time": 70.919,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Cut_ChoppedBellpepper",
+      "position": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": 335,
+      "time": 71.072,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Pickup_ChoppedBellpepper_from_Cutboard",
+      "position": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": 336,
+      "time": 71.103,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 337,
+      "time": 71.495,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 338,
+      "time": 71.495,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Put_ChoppedBellpepper_on_Cutboard",
+      "position": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": 339,
+      "time": 71.866,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": 340,
+      "time": 72.02,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        3
+      ]
+    },
+    {
+      "id": 341,
+      "time": 72.167,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        4
+      ]
+    },
+    {
+      "id": 342,
+      "time": 72.352,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 343,
+      "time": 72.57,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": 344,
+      "time": 72.614,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "utterance",
+      "utterance": "これは鍋か。",
+      "tag": "独り言",
+      "end_time": 74.044
+    },
+    {
+      "id": 345,
+      "time": 72.959,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        6
+      ]
+    },
+    {
+      "id": 346,
+      "time": 73.174,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": 347,
+      "time": 73.268,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 348,
+      "time": 73.452,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 349,
+      "time": 73.54,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 350,
+      "time": 73.819,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 351,
+      "time": 73.912,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 352,
+      "time": 74.066,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 353,
+      "time": 74.098,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 354,
+      "time": 74.307,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Pickup_FreshTomato_from_FreshTomatoTile",
+      "position": [
+        0,
+        5
+      ]
+    },
+    {
+      "id": 355,
+      "time": 74.616,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Cook_ChoppedBellpepper-ChoppedTomato",
+      "position": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": 356,
+      "time": 74.709,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 357,
+      "time": 74.897,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 358,
+      "time": 75.073,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 359,
+      "time": 75.282,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 360,
+      "time": 75.565,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        4
+      ]
+    },
+    {
+      "id": 361,
+      "time": 75.757,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 362,
+      "time": 75.757,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        3
+      ]
+    },
+    {
+      "id": 363,
+      "time": 75.935,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": 364,
+      "time": 76.278,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Chop_FreshTomato",
+      "position": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": 365,
+      "time": 76.309,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 366,
+      "time": 76.815,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": 367,
+      "time": 77.28,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Pickup_Plate_from_PlateTile",
+      "position": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": 368,
+      "time": 77.525,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Cut_ChoppedTomato",
+      "position": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": 369,
+      "time": 77.837,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 370,
+      "time": 77.961,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Pickup_ChoppedTomato_from_Cutboard",
+      "position": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": 371,
+      "time": 78.292,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        1
+      ]
+    },
+    {
+      "id": 372,
+      "time": 78.354,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 373,
+      "time": 78.601,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Assemble_ChoppedBellpepper-ChoppedTomato",
+      "position": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": 374,
+      "time": 78.695,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 375,
+      "time": 78.967,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": 376,
+      "time": 79.342,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        1
+      ]
+    },
+    {
+      "id": 377,
+      "time": 79.773,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        1
+      ]
+    },
+    {
+      "id": 378,
+      "time": 80.085,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        1
+      ]
+    },
+    {
+      "id": 379,
+      "time": 80.24,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Pickup_CookedBellpepper-CookedTomato_from_Pot",
+      "position": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": 380,
+      "time": 80.27,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Pickup_ChoppedBellpepper-ChoppedTomato_from_Cutboard",
+      "position": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": 381,
+      "time": 80.691,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": 382,
+      "time": 80.843,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        3
+      ]
+    },
+    {
+      "id": 383,
+      "time": 80.966,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 384,
+      "time": 81.054,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        4
+      ]
+    },
+    {
+      "id": 385,
+      "time": 81.21,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 386,
+      "time": 81.273,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 387,
+      "time": 81.428,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": 388,
+      "time": 81.552,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 389,
+      "time": 81.77,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        6
+      ]
+    },
+    {
+      "id": 390,
+      "time": 82.0,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": 391,
+      "time": 82.153,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 392,
+      "time": 82.277,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 393,
+      "time": 82.578,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 394,
+      "time": 82.609,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 395,
+      "time": 82.704,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "utterance",
+      "utterance": "今切り終わったので鍋に入れます。",
+      "tag": "情報提供",
+      "end_time": 85.624
+    },
+    {
+      "id": 396,
+      "time": 82.858,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 397,
+      "time": 82.982,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 398,
+      "time": 83.168,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 399,
+      "time": 83.345,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        4
+      ]
+    },
+    {
+      "id": 400,
+      "time": 83.345,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 401,
+      "time": 83.684,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 402,
+      "time": 83.872,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 403,
+      "time": 83.999,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        2
+      ]
+    },
+    {
+      "id": 404,
+      "time": 84.24,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Cook_ChoppedBellpepper-ChoppedTomato",
+      "position": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": 405,
+      "time": 84.271,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        1
+      ]
+    },
+    {
+      "id": 406,
+      "time": 84.55,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Deliver_CookedBellpepper-CookedTomato-Plate",
+      "position": [
+        4,
+        0
+      ]
+    },
+    {
+      "id": 407,
+      "time": 85.563,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        2
+      ]
+    },
+    {
+      "id": 408,
+      "time": 85.899,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 409,
+      "time": 86.213,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        4
+      ]
+    },
+    {
+      "id": 410,
+      "time": 86.705,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 411,
+      "time": 87.284,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 412,
+      "time": 87.334,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "utterance",
+      "utterance": "じゃあ、キャベツとパプリカのやつに入ります。",
+      "tag": "情報提供",
+      "end_time": 91.434
+    },
+    {
+      "id": 413,
+      "time": 87.626,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 414,
+      "time": 87.657,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 415,
+      "time": 87.928,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": 416,
+      "time": 88.114,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Pickup_Plate_from_PlateTile",
+      "position": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": 417,
+      "time": 88.24,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": 418,
+      "time": 88.452,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 419,
+      "time": 88.653,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 420,
+      "time": 88.776,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 421,
+      "time": 88.96,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 422,
+      "time": 89.022,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 423,
+      "time": 89.889,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Pickup_FreshBellpepper_from_FreshBellpepperTile",
+      "position": [
+        0,
+        6
+      ]
+    },
+    {
+      "id": 424,
+      "time": 90.011,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        2
+      ]
+    },
+    {
+      "id": 425,
+      "time": 90.287,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 426,
+      "time": 90.536,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        2
+      ]
+    },
+    {
+      "id": 427,
+      "time": 90.599,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 428,
+      "time": 90.865,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": 429,
+      "time": 90.895,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        1
+      ]
+    },
+    {
+      "id": 430,
+      "time": 91.08,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": 431,
+      "time": 91.143,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        6
+      ]
+    },
+    {
+      "id": 432,
+      "time": 91.423,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 433,
+      "time": 91.541,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": 434,
+      "time": 91.756,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Pickup_CookedBellpepper-CookedTomato_from_Pot",
+      "position": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": 435,
+      "time": 92.005,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 436,
+      "time": 92.314,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        4
+      ]
+    },
+    {
+      "id": 437,
+      "time": 92.494,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 438,
+      "time": 92.556,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        3
+      ]
+    },
+    {
+      "id": 439,
+      "time": 92.649,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 440,
+      "time": 92.804,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": 441,
+      "time": 92.959,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 442,
+      "time": 93.075,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        1
+      ]
+    },
+    {
+      "id": 443,
+      "time": 93.326,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 444,
+      "time": 93.387,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Chop_FreshBellpepper",
+      "position": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": 445,
+      "time": 93.574,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 446,
+      "time": 94.482,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 447,
+      "time": 94.719,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Cut_ChoppedBellpepper",
+      "position": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": 448,
+      "time": 94.781,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        4
+      ]
+    },
+    {
+      "id": 449,
+      "time": 94.967,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 450,
+      "time": 94.998,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Pickup_ChoppedBellpepper_from_Cutboard",
+      "position": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": 451,
+      "time": 95.154,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        2
+      ]
+    },
+    {
+      "id": 452,
+      "time": 95.28,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        1
+      ]
+    },
+    {
+      "id": 453,
+      "time": 95.463,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Deliver_CookedBellpepper-CookedTomato-Plate",
+      "position": [
+        4,
+        0
+      ]
+    },
+    {
+      "id": 454,
+      "time": 95.624,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "utterance",
+      "utterance": "よしよしよしよし。",
+      "tag": "独り言",
+      "end_time": 97.404
+    },
+    {
+      "id": 455,
+      "time": 95.678,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Put_ChoppedBellpepper_on_Cutboard",
+      "position": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": 456,
+      "time": 96.047,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        2
+      ]
+    },
+    {
+      "id": 457,
+      "time": 96.162,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": 458,
+      "time": 96.224,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 459,
+      "time": 96.412,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        4
+      ]
+    },
+    {
+      "id": 460,
+      "time": 96.505,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        3
+      ]
+    },
+    {
+      "id": 461,
+      "time": 96.6,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 462,
+      "time": 96.78,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        4
+      ]
+    },
+    {
+      "id": 463,
+      "time": 97.017,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 464,
+      "time": 97.109,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 465,
+      "time": 97.356,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 466,
+      "time": 97.604,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": 467,
+      "time": 98.1,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        6
+      ]
+    },
+    {
+      "id": 468,
+      "time": 98.255,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 469,
+      "time": 98.462,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 470,
+      "time": 98.552,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": 471,
+      "time": 98.832,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 472,
+      "time": 99.099,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 473,
+      "time": 99.286,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        4
+      ]
+    },
+    {
+      "id": 474,
+      "time": 99.535,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 475,
+      "time": 99.566,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Pickup_FreshTomato_from_FreshTomatoTile",
+      "position": [
+        0,
+        5
+      ]
+    },
+    {
+      "id": 476,
+      "time": 99.629,
+      "player_side": "2",
+      "player_id": "0301C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 477,
+      "time": 99.832,
+      "player_side": "1",
+      "player_id": "0301B2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    }
+  ],
+  "score": {
+    "成功": 4,
+    "失敗": 3,
+    "スコア": 45,
+    "Zスコア": 0.5246039240373518
+  },
+  "survey": {
+    "0301B2": {
+      "1. パートナーと協力できた": 4,
+      "2. パートナーと意思疎通できた": 3,
+      "3. パートナーと役割分担ができた": 4,
+      "4. あなたは的確な意見や指示を出せた": 4,
+      "5. パートナーは的確な意見や指示を出せた": 4,
+      "6. あなたはパートナーに合わせた行動ができた": 4,
+      "7. パートナーはあなたに合わせた行動ができた": 4,
+      "8.  作業についての習熟度がパートナーより高いと思う": 3,
+      "自由記述(ペア作業の感想や環境の改善点があれば是非記入お願いします)": "互いに個人作業を役割分担しながら行えたように感じた。結果として、とてもスムーズにプレイできたように思う。"
+    },
+    "0301C1": {
+      "1. パートナーと協力できた": 4,
+      "2. パートナーと意思疎通できた": 4,
+      "3. パートナーと役割分担ができた": 4,
+      "4. あなたは的確な意見や指示を出せた": 4,
+      "5. パートナーは的確な意見や指示を出せた": 4,
+      "6. あなたはパートナーに合わせた行動ができた": 3,
+      "7. パートナーはあなたに合わせた行動ができた": 4,
+      "8.  作業についての習熟度がパートナーより高いと思う": 3,
+      "自由記述(ペア作業の感想や環境の改善点があれば是非記入お願いします)": "作業状況に応じて意思疎通がうまくできました。"
+    }
+  },
+  "players": {
+    "0301B2": {
+      "成功": 3,
+      "失敗": 3,
+      "料理ゲームオーバークックをプレイ経験について": "したことはない",
+      "外向性": 9,
+      "協調性": 10,
+      "誠実性": 7,
+      "神経症傾向": 10,
+      "開放性": 9,
+      "習熟度スコア": 30
+    },
+    "0301C1": {
+      "成功": 0,
+      "失敗": 3,
+      "料理ゲームオーバークックをプレイ経験について": "したことはない",
+      "外向性": 4,
+      "協調性": 10,
+      "誠実性": 10,
+      "神経症傾向": 8,
+      "開放性": 7,
+      "習熟度スコア": -15
+    }
+  },
+  "info": {
+    "date": "2025-04-03",
+    "map": "Concave",
+    "player1": "0301B2",
+    "player2": "0301C1"
+  }
+}

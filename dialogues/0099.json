@@ -1,0 +1,5026 @@
+{
+  "log": [
+    {
+      "id": 0,
+      "time": 0.202,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "utterance",
+      "utterance": "行きます。",
+      "tag": "その他",
+      "end_time": 0.682
+    },
+    {
+      "id": 1,
+      "time": 1.172,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "utterance",
+      "utterance": "あ、はい。",
+      "tag": "相槌",
+      "end_time": 1.572
+    },
+    {
+      "id": 2,
+      "time": 1.293,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 3,
+      "time": 1.354,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        2
+      ]
+    },
+    {
+      "id": 4,
+      "time": 1.717,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 5,
+      "time": 1.933,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        1
+      ]
+    },
+    {
+      "id": 6,
+      "time": 1.964,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 7,
+      "time": 2.538,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        2
+      ]
+    },
+    {
+      "id": 8,
+      "time": 2.94,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 9,
+      "time": 3.342,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "utterance",
+      "utterance": "えっと、じゃあ、一番左行きます。",
+      "tag": "情報提供",
+      "end_time": 4.652
+    },
+    {
+      "id": 10,
+      "time": 3.357,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        2
+      ]
+    },
+    {
+      "id": 11,
+      "time": 3.388,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Pickup_FreshLettuce_from_FreshLettuceTile",
+      "position": [
+        0,
+        4
+      ]
+    },
+    {
+      "id": 12,
+      "time": 4.372,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": 13,
+      "time": 4.644,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": 14,
+      "time": 4.792,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "utterance",
+      "utterance": "はい。",
+      "tag": "相槌",
+      "end_time": 5.722
+    },
+    {
+      "id": 15,
+      "time": 4.828,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        4
+      ]
+    },
+    {
+      "id": 16,
+      "time": 4.982,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        4
+      ]
+    },
+    {
+      "id": 17,
+      "time": 5.411,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Put_FreshLettuce_on_Counter",
+      "position": [
+        5,
+        3
+      ]
+    },
+    {
+      "id": 18,
+      "time": 5.442,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 19,
+      "time": 5.998,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 20,
+      "time": 6.359,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 21,
+      "time": 6.42,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Pickup_FreshLettuce_from_Counter",
+      "position": [
+        5,
+        3
+      ]
+    },
+    {
+      "id": 22,
+      "time": 6.61,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        2
+      ]
+    },
+    {
+      "id": 23,
+      "time": 6.818,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        2
+      ]
+    },
+    {
+      "id": 24,
+      "time": 7.126,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Put_FreshLettuce_on_Counter",
+      "position": [
+        5,
+        3
+      ]
+    },
+    {
+      "id": 25,
+      "time": 7.28,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        2
+      ]
+    },
+    {
+      "id": 26,
+      "time": 7.512,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "utterance",
+      "utterance": "あれ？",
+      "tag": "独り言",
+      "end_time": 7.902
+    },
+    {
+      "id": 27,
+      "time": 7.612,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Pickup_FreshLettuce_from_Counter",
+      "position": [
+        5,
+        3
+      ]
+    },
+    {
+      "id": 28,
+      "time": 8.162,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Put_FreshLettuce_on_Counter",
+      "position": [
+        5,
+        3
+      ]
+    },
+    {
+      "id": 29,
+      "time": 8.322,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "utterance",
+      "utterance": "えっと、こっちか",
+      "tag": "独り言",
+      "end_time": 8.852
+    },
+    {
+      "id": 30,
+      "time": 8.588,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        2
+      ]
+    },
+    {
+      "id": 31,
+      "time": 8.682,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 32,
+      "time": 9.224,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        2
+      ]
+    },
+    {
+      "id": 33,
+      "time": 9.346,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        4
+      ]
+    },
+    {
+      "id": 34,
+      "time": 9.437,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 35,
+      "time": 9.522,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "utterance",
+      "utterance": "まな板です。",
+      "tag": "情報提供",
+      "end_time": 10.302
+    },
+    {
+      "id": 36,
+      "time": 9.651,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Pickup_FreshTomato_from_FreshTomatoTile",
+      "position": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": 37,
+      "time": 10.006,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 38,
+      "time": 10.068,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        6,
+        4
+      ]
+    },
+    {
+      "id": 39,
+      "time": 10.19,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 40,
+      "time": 10.466,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 41,
+      "time": 10.608,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Chop_FreshTomato",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 42,
+      "time": 10.608,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        4
+      ]
+    },
+    {
+      "id": 43,
+      "time": 10.902,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "utterance",
+      "utterance": "まな板だ。",
+      "tag": "独り言",
+      "end_time": 11.542
+    },
+    {
+      "id": 44,
+      "time": 11.071,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Pickup_FreshLettuce_from_Counter",
+      "position": [
+        5,
+        3
+      ]
+    },
+    {
+      "id": 45,
+      "time": 11.711,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 46,
+      "time": 12.197,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 47,
+      "time": 12.382,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 48,
+      "time": 12.567,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 49,
+      "time": 12.598,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Cut_ChoppedTomato",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 50,
+      "time": 13.111,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 51,
+      "time": 13.111,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Chop_FreshLettuce",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 52,
+      "time": 13.36,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 53,
+      "time": 13.641,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Pickup_ChoppedTomato_from_Cutboard",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 54,
+      "time": 13.891,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 55,
+      "time": 14.074,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 56,
+      "time": 14.257,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 57,
+      "time": 14.712,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        2
+      ]
+    },
+    {
+      "id": 58,
+      "time": 14.868,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        2
+      ]
+    },
+    {
+      "id": 59,
+      "time": 15.079,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        2
+      ]
+    },
+    {
+      "id": 60,
+      "time": 15.172,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Cut_ChoppedLettuce",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 61,
+      "time": 15.361,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Pickup_ChoppedLettuce_from_Cutboard",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 62,
+      "time": 15.423,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Put_ChoppedTomato_on_Counter",
+      "position": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 63,
+      "time": 15.699,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        2
+      ]
+    },
+    {
+      "id": 64,
+      "time": 15.702,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "utterance",
+      "utterance": "玉ねぎください。",
+      "tag": "指示・依頼",
+      "end_time": 16.622
+    },
+    {
+      "id": 65,
+      "time": 15.878,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        2
+      ]
+    },
+    {
+      "id": 66,
+      "time": 15.941,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": 67,
+      "time": 16.436,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 68,
+      "time": 16.644,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 69,
+      "time": 16.859,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Pickup_FreshOnion_from_FreshOnionTile",
+      "position": [
+        0,
+        3
+      ]
+    },
+    {
+      "id": 70,
+      "time": 16.921,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 71,
+      "time": 17.092,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "utterance",
+      "utterance": "玉ねぎ。",
+      "tag": "確認",
+      "end_time": 17.582
+    },
+    {
+      "id": 72,
+      "time": 17.164,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Put_ChoppedLettuce_on_Cutboard",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 73,
+      "time": 17.228,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 74,
+      "time": 17.464,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 75,
+      "time": 17.677,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Chop_FreshOnion",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 76,
+      "time": 17.738,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Pickup_ChoppedLettuce_from_Cutboard",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 77,
+      "time": 18.122,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "utterance",
+      "utterance": "あ、ごめんなさい。玉ねぎ自分でいけました。",
+      "tag": "謝罪",
+      "end_time": 19.872
+    },
+    {
+      "id": 78,
+      "time": 18.226,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": 79,
+      "time": 18.536,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Put_ChoppedLettuce_on_Counter",
+      "position": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 80,
+      "time": 18.598,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Cut_ChoppedOnion",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 81,
+      "time": 18.809,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Pickup_ChoppedOnion_from_Cutboard",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 82,
+      "time": 19.242,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 83,
+      "time": 19.426,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 84,
+      "time": 19.489,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": 85,
+      "time": 19.58,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 86,
+      "time": 19.831,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        4
+      ]
+    },
+    {
+      "id": 87,
+      "time": 19.988,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Assemble_ChoppedOnion-ChoppedTomato",
+      "position": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 88,
+      "time": 20.242,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "utterance",
+      "utterance": "はい。",
+      "tag": "受諾",
+      "end_time": 20.792
+    },
+    {
+      "id": 89,
+      "time": 20.317,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        4
+      ]
+    },
+    {
+      "id": 90,
+      "time": 20.716,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        4
+      ]
+    },
+    {
+      "id": 91,
+      "time": 20.839,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": 92,
+      "time": 20.901,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Pickup_ChoppedOnion-ChoppedTomato_from_Counter",
+      "position": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 93,
+      "time": 21.136,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        4
+      ]
+    },
+    {
+      "id": 94,
+      "time": 21.197,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 95,
+      "time": 21.417,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        6,
+        4
+      ]
+    },
+    {
+      "id": 96,
+      "time": 21.694,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        6,
+        3
+      ]
+    },
+    {
+      "id": 97,
+      "time": 21.84,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Pickup_FreshLettuce_from_FreshLettuceTile",
+      "position": [
+        0,
+        4
+      ]
+    },
+    {
+      "id": 98,
+      "time": 22.269,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 99,
+      "time": 22.422,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": 100,
+      "time": 22.604,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": 101,
+      "time": 23.122,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "utterance",
+      "utterance": "またキャベツ取っちゃった",
+      "tag": "独り言",
+      "end_time": 24.232
+    },
+    {
+      "id": 102,
+      "time": 23.216,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 103,
+      "time": 23.737,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 104,
+      "time": 23.797,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 105,
+      "time": 23.89,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Cook_ChoppedOnion-ChoppedTomato",
+      "position": [
+        6,
+        0
+      ]
+    },
+    {
+      "id": 106,
+      "time": 23.89,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 107,
+      "time": 24.314,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        1
+      ]
+    },
+    {
+      "id": 108,
+      "time": 24.527,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        1
+      ]
+    },
+    {
+      "id": 109,
+      "time": 24.527,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 110,
+      "time": 24.743,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        1
+      ]
+    },
+    {
+      "id": 111,
+      "time": 24.978,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        1
+      ]
+    },
+    {
+      "id": 112,
+      "time": 25.009,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Chop_FreshLettuce",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 113,
+      "time": 25.285,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Pickup_Plate_from_PlateTile",
+      "position": [
+        2,
+        0
+      ]
+    },
+    {
+      "id": 114,
+      "time": 25.5,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        1
+      ]
+    },
+    {
+      "id": 115,
+      "time": 25.8,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Put_Plate_on_Counter",
+      "position": [
+        3,
+        0
+      ]
+    },
+    {
+      "id": 116,
+      "time": 26.168,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Cut_ChoppedLettuce",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 117,
+      "time": 26.345,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Pickup_ChoppedLettuce_from_Cutboard",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 118,
+      "time": 26.376,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        2
+      ]
+    },
+    {
+      "id": 119,
+      "time": 26.596,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        2
+      ]
+    },
+    {
+      "id": 120,
+      "time": 26.781,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 121,
+      "time": 27.0,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Pickup_FreshTomato_from_FreshTomatoTile",
+      "position": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": 122,
+      "time": 27.082,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 123,
+      "time": 27.576,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        2
+      ]
+    },
+    {
+      "id": 124,
+      "time": 27.576,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": 125,
+      "time": 27.791,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Put_ChoppedLettuce_on_Counter",
+      "position": [
+        3,
+        3
+      ]
+    },
+    {
+      "id": 126,
+      "time": 28.01,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        2
+      ]
+    },
+    {
+      "id": 127,
+      "time": 28.348,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        2
+      ]
+    },
+    {
+      "id": 128,
+      "time": 28.379,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": 129,
+      "time": 28.621,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 130,
+      "time": 28.806,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Put_FreshTomato_on_Counter",
+      "position": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 131,
+      "time": 29.084,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        2
+      ]
+    },
+    {
+      "id": 132,
+      "time": 29.209,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 133,
+      "time": 29.3,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        2
+      ]
+    },
+    {
+      "id": 134,
+      "time": 29.486,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 135,
+      "time": 29.608,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Pickup_FreshOnion_from_FreshOnionTile",
+      "position": [
+        0,
+        3
+      ]
+    },
+    {
+      "id": 136,
+      "time": 29.918,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        2
+      ]
+    },
+    {
+      "id": 137,
+      "time": 30.097,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 138,
+      "time": 30.129,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        2
+      ]
+    },
+    {
+      "id": 139,
+      "time": 30.348,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        2
+      ]
+    },
+    {
+      "id": 140,
+      "time": 30.626,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 141,
+      "time": 30.836,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Chop_FreshOnion",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 142,
+      "time": 31.302,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": 143,
+      "time": 31.502,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "utterance",
+      "utterance": "切れてないです。",
+      "tag": "指摘・助言",
+      "end_time": 32.962
+    },
+    {
+      "id": 144,
+      "time": 31.545,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        2
+      ]
+    },
+    {
+      "id": 145,
+      "time": 31.79,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        1
+      ]
+    },
+    {
+      "id": 146,
+      "time": 32.038,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Cut_ChoppedOnion",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 147,
+      "time": 32.099,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        1
+      ]
+    },
+    {
+      "id": 148,
+      "time": 32.221,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Pickup_ChoppedOnion_from_Cutboard",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 149,
+      "time": 32.307,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Pickup_Plate_from_Counter",
+      "position": [
+        3,
+        0
+      ]
+    },
+    {
+      "id": 150,
+      "time": 32.619,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        2
+      ]
+    },
+    {
+      "id": 151,
+      "time": 32.773,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 152,
+      "time": 32.927,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        2
+      ]
+    },
+    {
+      "id": 153,
+      "time": 33.084,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 154,
+      "time": 33.146,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": 155,
+      "time": 33.328,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": 156,
+      "time": 33.545,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": 157,
+      "time": 33.668,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": 158,
+      "time": 33.762,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Pickup_GrillOnion-GrillTomato_from_FryingPan",
+      "position": [
+        6,
+        0
+      ]
+    },
+    {
+      "id": 159,
+      "time": 33.892,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "utterance",
+      "utterance": "え？",
+      "tag": "独り言",
+      "end_time": 34.192
+    },
+    {
+      "id": 160,
+      "time": 33.911,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Assemble_ChoppedLettuce-ChoppedOnion",
+      "position": [
+        3,
+        3
+      ]
+    },
+    {
+      "id": 161,
+      "time": 34.129,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": 162,
+      "time": 34.313,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        6,
+        3
+      ]
+    },
+    {
+      "id": 163,
+      "time": 34.526,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 164,
+      "time": 34.618,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Deliver_GrillOnion-GrillTomato-Plate",
+      "position": [
+        7,
+        3
+      ]
+    },
+    {
+      "id": 165,
+      "time": 34.972,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "utterance",
+      "utterance": "どれが？",
+      "tag": "質問",
+      "end_time": 35.512
+    },
+    {
+      "id": 166,
+      "time": 35.262,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": 167,
+      "time": 35.289,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": 168,
+      "time": 35.349,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 169,
+      "time": 35.44,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": 170,
+      "time": 35.592,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 171,
+      "time": 35.866,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": 172,
+      "time": 36.047,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        2
+      ]
+    },
+    {
+      "id": 173,
+      "time": 36.14,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 174,
+      "time": 36.202,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        2
+      ]
+    },
+    {
+      "id": 175,
+      "time": 36.48,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        2
+      ]
+    },
+    {
+      "id": 176,
+      "time": 36.666,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": 177,
+      "time": 36.815,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        1
+      ]
+    },
+    {
+      "id": 178,
+      "time": 36.882,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "utterance",
+      "utterance": "食材が。",
+      "tag": "情報提供",
+      "end_time": 37.762
+    },
+    {
+      "id": 179,
+      "time": 36.935,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": 180,
+      "time": 37.273,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        1
+      ]
+    },
+    {
+      "id": 181,
+      "time": 37.427,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Pickup_ChoppedLettuce-ChoppedOnion_from_Counter",
+      "position": [
+        3,
+        3
+      ]
+    },
+    {
+      "id": 182,
+      "time": 38.437,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        1
+      ]
+    },
+    {
+      "id": 183,
+      "time": 38.653,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Pickup_Plate_from_PlateTile",
+      "position": [
+        2,
+        0
+      ]
+    },
+    {
+      "id": 184,
+      "time": 38.842,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        4
+      ]
+    },
+    {
+      "id": 185,
+      "time": 39.079,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        4
+      ]
+    },
+    {
+      "id": 186,
+      "time": 39.202,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        1
+      ]
+    },
+    {
+      "id": 187,
+      "time": 39.295,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        6,
+        4
+      ]
+    },
+    {
+      "id": 188,
+      "time": 39.42,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        1
+      ]
+    },
+    {
+      "id": 189,
+      "time": 39.667,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        6,
+        3
+      ]
+    },
+    {
+      "id": 190,
+      "time": 39.906,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": 191,
+      "time": 40.06,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": 192,
+      "time": 40.247,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Cook_ChoppedLettuce-ChoppedOnion",
+      "position": [
+        6,
+        0
+      ]
+    },
+    {
+      "id": 193,
+      "time": 40.278,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        1
+      ]
+    },
+    {
+      "id": 194,
+      "time": 40.502,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "utterance",
+      "utterance": "レタス。",
+      "tag": "情報提供",
+      "end_time": 41.182
+    },
+    {
+      "id": 195,
+      "time": 40.799,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Put_Plate_on_Counter",
+      "position": [
+        3,
+        0
+      ]
+    },
+    {
+      "id": 196,
+      "time": 40.83,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": 197,
+      "time": 41.078,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        6,
+        3
+      ]
+    },
+    {
+      "id": 198,
+      "time": 41.109,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        2
+      ]
+    },
+    {
+      "id": 199,
+      "time": 41.376,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        2
+      ]
+    },
+    {
+      "id": 200,
+      "time": 41.376,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        6,
+        4
+      ]
+    },
+    {
+      "id": 201,
+      "time": 41.563,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 202,
+      "time": 41.749,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        4
+      ]
+    },
+    {
+      "id": 203,
+      "time": 42.138,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        4
+      ]
+    },
+    {
+      "id": 204,
+      "time": 42.168,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 205,
+      "time": 42.416,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Pickup_ChoppedLettuce_from_Counter",
+      "position": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 206,
+      "time": 42.662,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 207,
+      "time": 42.781,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Pickup_FreshTomato_from_Counter",
+      "position": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 208,
+      "time": 42.872,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 209,
+      "time": 43.025,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Put_ChoppedLettuce_on_Cutboard",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 210,
+      "time": 43.18,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Pickup_ChoppedLettuce_from_Cutboard",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 211,
+      "time": 43.396,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 212,
+      "time": 43.427,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 213,
+      "time": 43.462,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "utterance",
+      "utterance": "トマトが切れてない。",
+      "tag": "情報提供",
+      "end_time": 44.582
+    },
+    {
+      "id": 214,
+      "time": 43.638,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 215,
+      "time": 43.886,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 216,
+      "time": 44.164,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 217,
+      "time": 44.467,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 218,
+      "time": 44.653,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Chop_FreshTomato",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 219,
+      "time": 44.716,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 220,
+      "time": 44.902,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Put_ChoppedLettuce_on_Cutboard",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 221,
+      "time": 45.108,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Pickup_ChoppedLettuce_from_Cutboard",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 222,
+      "time": 45.265,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Put_ChoppedLettuce_on_Cutboard",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 223,
+      "time": 45.452,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Pickup_ChoppedLettuce_from_Cutboard",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 224,
+      "time": 45.607,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Put_ChoppedLettuce_on_Cutboard",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 225,
+      "time": 46.306,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Pickup_ChoppedLettuce_from_Cutboard",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 226,
+      "time": 46.306,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Cut_ChoppedTomato",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 227,
+      "time": 46.547,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Pickup_ChoppedTomato_from_Cutboard",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 228,
+      "time": 47.04,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": 229,
+      "time": 47.071,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 230,
+      "time": 47.152,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "utterance",
+      "utterance": "切れたの下さい。",
+      "tag": "指示・依頼",
+      "end_time": 47.852
+    },
+    {
+      "id": 231,
+      "time": 47.256,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 232,
+      "time": 47.4,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Put_ChoppedTomato_on_Counter",
+      "position": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 233,
+      "time": 47.43,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 234,
+      "time": 47.924,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        2
+      ]
+    },
+    {
+      "id": 235,
+      "time": 48.173,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Pickup_ChoppedTomato_from_Counter",
+      "position": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 236,
+      "time": 48.233,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Put_ChoppedLettuce_on_Counter",
+      "position": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 237,
+      "time": 49.038,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Assemble_ChoppedLettuce-ChoppedTomato",
+      "position": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 238,
+      "time": 49.981,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        1
+      ]
+    },
+    {
+      "id": 239,
+      "time": 50.194,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 240,
+      "time": 50.341,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Pickup_Plate_from_PlateTile",
+      "position": [
+        2,
+        0
+      ]
+    },
+    {
+      "id": 241,
+      "time": 50.923,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 242,
+      "time": 51.102,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "utterance",
+      "utterance": "待って。",
+      "tag": "指示・依頼",
+      "end_time": 51.632
+    },
+    {
+      "id": 243,
+      "time": 51.192,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        2
+      ]
+    },
+    {
+      "id": 244,
+      "time": 51.375,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Assemble_ChoppedLettuce-ChoppedTomato-Plate",
+      "position": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 245,
+      "time": 51.712,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        2
+      ]
+    },
+    {
+      "id": 246,
+      "time": 51.924,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        2
+      ]
+    },
+    {
+      "id": 247,
+      "time": 52.14,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": 248,
+      "time": 52.388,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Pickup_FreshOnion_from_FreshOnionTile",
+      "position": [
+        0,
+        3
+      ]
+    },
+    {
+      "id": 249,
+      "time": 52.875,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": 250,
+      "time": 53.092,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 251,
+      "time": 53.341,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": 252,
+      "time": 53.558,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        2
+      ]
+    },
+    {
+      "id": 253,
+      "time": 53.926,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": 254,
+      "time": 53.958,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": 255,
+      "time": 54.205,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        1
+      ]
+    },
+    {
+      "id": 256,
+      "time": 54.266,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": 257,
+      "time": 54.389,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Cook_ChoppedLettuce-ChoppedTomato",
+      "position": [
+        5,
+        0
+      ]
+    },
+    {
+      "id": 258,
+      "time": 54.729,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Put_FreshOnion_on_Counter",
+      "position": [
+        3,
+        3
+      ]
+    },
+    {
+      "id": 259,
+      "time": 54.79,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": 260,
+      "time": 55.097,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        1
+      ]
+    },
+    {
+      "id": 261,
+      "time": 55.439,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": 262,
+      "time": 55.716,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Pickup_GrillLettuce-GrillOnion_from_FryingPan",
+      "position": [
+        6,
+        0
+      ]
+    },
+    {
+      "id": 263,
+      "time": 56.056,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": 264,
+      "time": 56.102,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "utterance",
+      "utterance": "あれ？",
+      "tag": "独り言",
+      "end_time": 56.432
+    },
+    {
+      "id": 265,
+      "time": 56.148,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 266,
+      "time": 56.51,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Drop_GrillLettuce-GrillOnion",
+      "position": [
+        7,
+        2
+      ]
+    },
+    {
+      "id": 267,
+      "time": 56.51,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": 268,
+      "time": 56.787,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": 269,
+      "time": 56.878,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Pickup_FreshOnion_from_Counter",
+      "position": [
+        3,
+        3
+      ]
+    },
+    {
+      "id": 270,
+      "time": 57.001,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        2
+      ]
+    },
+    {
+      "id": 271,
+      "time": 57.211,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        2
+      ]
+    },
+    {
+      "id": 272,
+      "time": 57.302,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 273,
+      "time": 57.518,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Put_FreshOnion_on_Counter",
+      "position": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": 274,
+      "time": 57.98,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 275,
+      "time": 58.032,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "utterance",
+      "utterance": "ちょっと待って。",
+      "tag": "指示・依頼",
+      "end_time": 58.822
+    },
+    {
+      "id": 276,
+      "time": 58.164,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Put_Plate_on_Counter",
+      "position": [
+        3,
+        3
+      ]
+    },
+    {
+      "id": 277,
+      "time": 58.504,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        2
+      ]
+    },
+    {
+      "id": 278,
+      "time": 58.684,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 279,
+      "time": 58.807,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 280,
+      "time": 58.993,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Pickup_FreshTomato_from_FreshTomatoTile",
+      "position": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": 281,
+      "time": 59.238,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Pickup_FreshOnion_from_Counter",
+      "position": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": 282,
+      "time": 59.602,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        2
+      ]
+    },
+    {
+      "id": 283,
+      "time": 59.754,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 284,
+      "time": 59.941,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Put_FreshTomato_on_Counter",
+      "position": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 285,
+      "time": 60.132,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "utterance",
+      "utterance": "どれやってんのか全くわかんない。",
+      "tag": "独り言",
+      "end_time": 61.752
+    },
+    {
+      "id": 286,
+      "time": 60.305,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 287,
+      "time": 60.366,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Chop_FreshOnion",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 288,
+      "time": 60.71,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 289,
+      "time": 60.953,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Pickup_FreshOnion_from_FreshOnionTile",
+      "position": [
+        0,
+        3
+      ]
+    },
+    {
+      "id": 290,
+      "time": 61.745,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 291,
+      "time": 61.931,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 292,
+      "time": 62.085,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Chop_FreshOnion",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 293,
+      "time": 62.902,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Cut_ChoppedOnion",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 294,
+      "time": 62.993,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Cut_ChoppedOnion",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 295,
+      "time": 63.552,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "utterance",
+      "utterance": "どうすればいいんですか？",
+      "tag": "質問",
+      "end_time": 64.932
+    },
+    {
+      "id": 296,
+      "time": 63.59,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 297,
+      "time": 63.652,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": 298,
+      "time": 63.902,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 299,
+      "time": 63.932,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Pickup_FreshTomato_from_Counter",
+      "position": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 300,
+      "time": 65.164,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 301,
+      "time": 65.407,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Pickup_ChoppedOnion_from_Cutboard",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 302,
+      "time": 65.771,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 303,
+      "time": 66.041,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        2
+      ]
+    },
+    {
+      "id": 304,
+      "time": 66.067,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": 305,
+      "time": 66.313,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Put_FreshTomato_on_Counter",
+      "position": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 306,
+      "time": 66.558,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 307,
+      "time": 66.887,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 308,
+      "time": 67.103,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 309,
+      "time": 67.586,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 310,
+      "time": 67.722,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "utterance",
+      "utterance": "あ、じゃあ、それちょっと置いといてください。",
+      "tag": "指示・依頼",
+      "end_time": 69.892
+    },
+    {
+      "id": 311,
+      "time": 68.05,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Pickup_FreshTomato_from_Counter",
+      "position": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 312,
+      "time": 68.267,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 313,
+      "time": 68.753,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 314,
+      "time": 68.938,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 315,
+      "time": 69.255,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Chop_FreshTomato",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 316,
+      "time": 69.286,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Put_ChoppedOnion_on_Counter",
+      "position": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 317,
+      "time": 70.206,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Cut_ChoppedTomato",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 318,
+      "time": 70.222,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "utterance",
+      "utterance": "はい。",
+      "tag": "受諾",
+      "end_time": 70.602
+    },
+    {
+      "id": 319,
+      "time": 70.388,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Pickup_ChoppedTomato_from_Cutboard",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 320,
+      "time": 71.086,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 321,
+      "time": 71.355,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 322,
+      "time": 71.541,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 323,
+      "time": 71.944,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Assemble_ChoppedOnion-ChoppedTomato",
+      "position": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 324,
+      "time": 72.152,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "utterance",
+      "utterance": "どれ、どれやればいいんですか？",
+      "tag": "質問",
+      "end_time": 73.132
+    },
+    {
+      "id": 325,
+      "time": 72.437,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 326,
+      "time": 72.744,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Pickup_FreshTomato_from_FreshTomatoTile",
+      "position": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": 327,
+      "time": 73.019,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 328,
+      "time": 73.432,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "utterance",
+      "utterance": "あ、キャベツお願いします。",
+      "tag": "指示・依頼",
+      "end_time": 74.842
+    },
+    {
+      "id": 329,
+      "time": 73.48,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 330,
+      "time": 73.697,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 331,
+      "time": 74.065,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Pickup_FreshLettuce_from_FreshLettuceTile",
+      "position": [
+        0,
+        4
+      ]
+    },
+    {
+      "id": 332,
+      "time": 75.372,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "utterance",
+      "utterance": "キャベツ。",
+      "tag": "情報提供",
+      "end_time": 75.952
+    },
+    {
+      "id": 333,
+      "time": 75.471,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": 334,
+      "time": 75.871,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 335,
+      "time": 76.085,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        2
+      ]
+    },
+    {
+      "id": 336,
+      "time": 76.149,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Chop_FreshLettuce",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 337,
+      "time": 77.489,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Cut_ChoppedLettuce",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 338,
+      "time": 78.101,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 339,
+      "time": 78.332,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "utterance",
+      "utterance": "あ、で、混ぜてもらいたいです。",
+      "tag": "指示・依頼",
+      "end_time": 80.972
+    },
+    {
+      "id": 340,
+      "time": 78.384,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 341,
+      "time": 79.294,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 342,
+      "time": 79.386,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 343,
+      "time": 79.689,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 344,
+      "time": 79.719,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 345,
+      "time": 79.871,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 346,
+      "time": 80.117,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Pickup_ChoppedLettuce_from_Cutboard",
+      "position": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 347,
+      "time": 80.722,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 348,
+      "time": 81.0,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 349,
+      "time": 81.272,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 350,
+      "time": 81.457,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        4
+      ]
+    },
+    {
+      "id": 351,
+      "time": 81.712,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "utterance",
+      "utterance": "どれと混ぜればいい？",
+      "tag": "質問",
+      "end_time": 82.442
+    },
+    {
+      "id": 352,
+      "time": 82.089,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Put_ChoppedLettuce_on_Counter",
+      "position": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 353,
+      "time": 82.794,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": 354,
+      "time": 82.918,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 355,
+      "time": 83.346,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        4
+      ]
+    },
+    {
+      "id": 356,
+      "time": 83.352,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "utterance",
+      "utterance": "あ、これ、玉ねぎ、玉ねぎのやつと。",
+      "tag": "独り言",
+      "end_time": 85.012
+    },
+    {
+      "id": 357,
+      "time": 83.439,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        2
+      ]
+    },
+    {
+      "id": 358,
+      "time": 83.624,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        2
+      ]
+    },
+    {
+      "id": 359,
+      "time": 83.746,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Pickup_ChoppedLettuce_from_Counter",
+      "position": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 360,
+      "time": 84.329,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": 361,
+      "time": 84.576,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": 362,
+      "time": 85.012,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "utterance",
+      "utterance": "あ、そうそうそう。",
+      "tag": "同意",
+      "end_time": 85.772
+    },
+    {
+      "id": 363,
+      "time": 85.063,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Assemble_ChoppedLettuce-ChoppedOnion-ChoppedTomato",
+      "position": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 364,
+      "time": 85.278,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        2
+      ]
+    },
+    {
+      "id": 365,
+      "time": 85.524,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Put_FreshTomato_on_Counter",
+      "position": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 366,
+      "time": 85.766,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        2
+      ]
+    },
+    {
+      "id": 367,
+      "time": 85.979,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        2
+      ]
+    },
+    {
+      "id": 368,
+      "time": 86.01,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Pickup_ChoppedLettuce-ChoppedOnion-ChoppedTomato_from_Counter",
+      "position": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 369,
+      "time": 86.512,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "utterance",
+      "utterance": "で、鍋。",
+      "tag": "情報提供",
+      "end_time": 87.042
+    },
+    {
+      "id": 370,
+      "time": 86.564,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 371,
+      "time": 86.596,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        2
+      ]
+    },
+    {
+      "id": 372,
+      "time": 86.81,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        2
+      ]
+    },
+    {
+      "id": 373,
+      "time": 87.18,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 374,
+      "time": 87.462,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "utterance",
+      "utterance": "はい。",
+      "tag": "相槌",
+      "end_time": 87.762
+    },
+    {
+      "id": 375,
+      "time": 87.492,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 376,
+      "time": 87.647,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        2
+      ]
+    },
+    {
+      "id": 377,
+      "time": 87.709,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 378,
+      "time": 88.157,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        2
+      ]
+    },
+    {
+      "id": 379,
+      "time": 88.342,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "utterance",
+      "utterance": "鍋でいいんですか？",
+      "tag": "確認",
+      "end_time": 89.162
+    },
+    {
+      "id": 380,
+      "time": 88.434,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 381,
+      "time": 88.465,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Cook_ChoppedLettuce-ChoppedOnion-ChoppedTomato",
+      "position": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": 382,
+      "time": 89.02,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        2
+      ]
+    },
+    {
+      "id": 383,
+      "time": 89.535,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        2
+      ]
+    },
+    {
+      "id": 384,
+      "time": 89.689,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        2
+      ]
+    },
+    {
+      "id": 385,
+      "time": 89.843,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 386,
+      "time": 90.085,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 387,
+      "time": 90.177,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        1
+      ]
+    },
+    {
+      "id": 388,
+      "time": 90.331,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 389,
+      "time": 90.786,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        1
+      ]
+    },
+    {
+      "id": 390,
+      "time": 90.815,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 391,
+      "time": 91.531,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Pickup_ChoppedOnion_from_Cutboard",
+      "position": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 392,
+      "time": 91.572,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "utterance",
+      "utterance": "え、どれが燃えてる？",
+      "tag": "質問",
+      "end_time": 92.332
+    },
+    {
+      "id": 393,
+      "time": 91.71,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        1
+      ]
+    },
+    {
+      "id": 394,
+      "time": 92.08,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 395,
+      "time": 92.234,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        1
+      ]
+    },
+    {
+      "id": 396,
+      "time": 92.412,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 397,
+      "time": 93.064,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 398,
+      "time": 93.452,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "utterance",
+      "utterance": "今、やってます。",
+      "tag": "回答",
+      "end_time": 94.182
+    },
+    {
+      "id": 399,
+      "time": 93.708,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 400,
+      "time": 94.167,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Put_ChoppedOnion_on_Counter",
+      "position": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 401,
+      "time": 94.689,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 402,
+      "time": 94.965,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 403,
+      "time": 95.507,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 404,
+      "time": 95.817,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 405,
+      "time": 96.09,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 406,
+      "time": 96.43,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 407,
+      "time": 97.237,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        1
+      ]
+    },
+    {
+      "id": 408,
+      "time": 97.422,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        1
+      ]
+    },
+    {
+      "id": 409,
+      "time": 97.632,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Pickup_Plate_from_Counter",
+      "position": [
+        3,
+        0
+      ]
+    },
+    {
+      "id": 410,
+      "time": 97.97,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        1
+      ]
+    },
+    {
+      "id": 411,
+      "time": 98.216,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Put_Plate_on_Counter",
+      "position": [
+        4,
+        0
+      ]
+    },
+    {
+      "id": 412,
+      "time": 98.472,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        1
+      ]
+    },
+    {
+      "id": 413,
+      "time": 98.689,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 414,
+      "time": 98.968,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 415,
+      "time": 99.072,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        4,
+        1
+      ]
+    },
+    {
+      "id": 416,
+      "time": 99.16,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 417,
+      "time": 99.282,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        1
+      ]
+    },
+    {
+      "id": 418,
+      "time": 99.591,
+      "player_side": "2",
+      "player_id": "0303C2",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": 419,
+      "time": 99.835,
+      "player_side": "1",
+      "player_id": "0303C1",
+      "action_type": "game",
+      "action": "Move",
+      "position": [
+        5,
+        2
+      ]
+    }
+  ],
+  "score": {
+    "成功": 1,
+    "失敗": 5,
+    "スコア": -10,
+    "Zスコア": -0.40469445568595713
+  },
+  "survey": {
+    "0303C1": {
+      "1. パートナーと協力できた": 1,
+      "2. パートナーと意思疎通できた": 1,
+      "3. パートナーと役割分担ができた": 1,
+      "4. あなたは的確な意見や指示を出せた": 2,
+      "5. パートナーは的確な意見や指示を出せた": 1,
+      "6. あなたはパートナーに合わせた行動ができた": 1,
+      "7. パートナーはあなたに合わせた行動ができた": 1,
+      "8.  作業についての習熟度がパートナーより高いと思う": 4,
+      "自由記述(ペア作業の感想や環境の改善点があれば是非記入お願いします)": "一回ごとにレイアウトが変わるため作業分担がしにくいと感じました。"
+    },
+    "0303C2": {
+      "1. パートナーと協力できた": 2,
+      "2. パートナーと意思疎通できた": 1,
+      "3. パートナーと役割分担ができた": 1,
+      "4. あなたは的確な意見や指示を出せた": 1,
+      "5. パートナーは的確な意見や指示を出せた": 3,
+      "6. あなたはパートナーに合わせた行動ができた": 1,
+      "7. パートナーはあなたに合わせた行動ができた": 2,
+      "8.  作業についての習熟度がパートナーより高いと思う": 1,
+      "自由記述(ペア作業の感想や環境の改善点があれば是非記入お願いします)": "ゲームに慣れていないので、全くできなかった。パートナーに迷惑をかけました。"
+    }
+  },
+  "players": {
+    "0303C1": {
+      "成功": 5,
+      "失敗": 1,
+      "料理ゲームオーバークックをプレイ経験について": "したことはない",
+      "外向性": 8,
+      "協調性": 10,
+      "誠実性": 11,
+      "神経症傾向": 7,
+      "開放性": 11,
+      "習熟度スコア": 70
+    },
+    "0303C2": {
+      "成功": 3,
+      "失敗": 4,
+      "料理ゲームオーバークックをプレイ経験について": "したことはない",
+      "外向性": 7,
+      "協調性": 9,
+      "誠実性": 5,
+      "神経症傾向": 9,
+      "開放性": 5,
+      "習熟度スコア": 25
+    }
+  },
+  "info": {
+    "date": "2025-04-03",
+    "map": "Standard",
+    "player1": "0303C1",
+    "player2": "0303C2"
+  }
+}
