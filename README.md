@@ -50,7 +50,7 @@ If you use this dataset, please cite the following paper:
   author    = {Kaito Nakae and Michimasa Inaba},
   booktitle = {Proceedings of the 26th Annual Meeting of the Special Interest Group on Discourse and Dialogue},
   year      = {2025},
-  url       = {https://github.com/UEC-InabaLab/OverCookedChat}
+  url       = {https://github.com/UEC-InabaLab/OvercookedChat}
 }
 ```
 
