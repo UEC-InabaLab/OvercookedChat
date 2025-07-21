@@ -1,4 +1,4 @@
-# Overcooked-chat : A Japanese Human-Human Dialogue Dataset from a Real-Time Collaborative Cooking Game. 
+# OvercookedChat : A Japanese Human-Human Dialogue Dataset from a Real-Time Collaborative Cooking Game. 
 
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
@@ -44,7 +44,7 @@ This work has been **accepted to the main conference of SIGDAIL 2025**.
 If you use this dataset, please cite the following paper:
 
 ```bibtex
-@inproceedings{overcooked-chat,
+@inproceedings{overcookedchat,
   title     = {Task Proficiency-Aware Dialogue Analysis
  in a Real-Time Cooking Game Environment},
   author    = {Kaito Nakae and Michimasa Inaba},
@@ -68,7 +68,7 @@ Each game session is provided as a single JSON file, which contains four primary
 
 ## ⚖️ License
 
-Overcooked-chat is released under the [**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**](https://creativecommons.org/licenses/by-nc/4.0/) license.
+Overcookedchat is released under the [**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**](https://creativecommons.org/licenses/by-nc/4.0/) license.
 
 [![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
 
