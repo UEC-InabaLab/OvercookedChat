@@ -47,7 +47,7 @@ If you use this dataset, please cite the following paper:
 @inproceedings{overcooked-chat,
   title     = {Task Proficiency-Aware Dialogue Analysis
  in a Real-Time Cooking Game Environment},
-  author    = { Kaito Nakae and Michimasa Inaba},
+  author    = {Kaito Nakae and Michimasa Inaba},
   booktitle = {Proceedings of the 26th Annual Meeting of the Special Interest Group on Discourse and Dialogue},
   year      = {2025},
   url       = {https://github.com/UEC-InabaLab/OverCookedChat}
