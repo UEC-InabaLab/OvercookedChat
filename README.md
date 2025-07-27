@@ -10,7 +10,7 @@
 This dataset was collected through collaborative work between players with pre-assessed task proficiency in a real-time cooperative cooking game environment inspired by the popular game "Overcooked." 
 This dataset was collected using an offline cooperative cooking game environment specifically designed to support controlled two-player experiments.  
 ➡️ The implementation of the data collection environment is available here:  
-🔗 https://github.com/UEC-InabaLab/OvercookedChat-Env
+🔗 https://github.com/UEC-InabaLab/OvercookedChatEnviroment
 
 This work has been **accepted to the main conference of SIGDAIL 2025**.
 
